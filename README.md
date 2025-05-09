@@ -76,10 +76,6 @@ We used Keras' built-in methods to apply:
 
 This helped increase diversity in the dataset and reduce overfitting.
 
-<p align="center">
-  <img src="path/to/augmentation-example.jpg" width="400" alt="Augmentation Example">
-</p>
-
 ---
 
 ## 📈 Training & Results
@@ -87,9 +83,6 @@ This helped increase diversity in the dataset and reduce overfitting.
 * Dataset split: **80% Training / 10% Validation / 10% Testing**
 * The models showed strong convergence with high accuracy and low validation loss.
 
-<p align="center">
-  <img src="path/to/training-plot.jpg" width="500" alt="Training Accuracy and Loss">
-</p>
 
 ---
 
@@ -99,9 +92,6 @@ Below are examples from the test set, with predicted classes and confidence scor
 
 ✅ The model accurately classifies both healthy and diseased leaves for **potato** and **pepper** plants.
 
-<p align="center">
-  <img src="path/to/prediction-samples.jpg" width="500" alt="Sample Predictions">
-</p>
 
 ---
 
@@ -121,9 +111,6 @@ I explored advanced research that uses **multimodal learning**, combining:
 * On the left: UI for “Potato GPT”
 * On the right: Confusion matrices of various models
 
-<p align="center">
-  <img src="path/to/deployment-ui.jpg" width="600" alt="Potato GPT UI and Model Evaluation">
-</p>
 
 📊 Multimodal models significantly outperform traditional CNNs — especially on **healthy crop identification**.
 
